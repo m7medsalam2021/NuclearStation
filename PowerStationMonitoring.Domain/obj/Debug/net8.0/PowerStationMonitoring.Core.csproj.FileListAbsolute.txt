@@ -1,0 +1,11 @@
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Domain\bin\Debug\net8.0\PowerStationMonitoring.Core.deps.json
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Domain\bin\Debug\net8.0\PowerStationMonitoring.Core.dll
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Domain\bin\Debug\net8.0\PowerStationMonitoring.Core.pdb
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Domain\obj\Debug\net8.0\PowerStationMonitoring.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Domain\obj\Debug\net8.0\PowerStationMonitoring.Core.AssemblyInfoInputs.cache
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Domain\obj\Debug\net8.0\PowerStationMonitoring.Core.AssemblyInfo.cs
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Domain\obj\Debug\net8.0\PowerStationMonitoring.Core.csproj.CoreCompileInputs.cache
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Domain\obj\Debug\net8.0\PowerStationMonitoring.Core.dll
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Domain\obj\Debug\net8.0\refint\PowerStationMonitoring.Core.dll
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Domain\obj\Debug\net8.0\PowerStationMonitoring.Core.pdb
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Domain\obj\Debug\net8.0\ref\PowerStationMonitoring.Core.dll

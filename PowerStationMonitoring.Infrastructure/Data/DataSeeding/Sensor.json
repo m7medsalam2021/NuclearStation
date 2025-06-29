@@ -1,0 +1,152 @@
+[
+ {
+  "Sensor_Name": "Temperature Sensor",
+  "Sensor_Type": "Temperature",
+  "Slave_ID": 5
+ },
+ {
+  "Sensor_Name": "Pressure Sensor",
+  "Sensor_Type": "Pressure",
+  "Slave_ID": 1
+ },
+ {
+  "Sensor_Name": "Radiation Sensor",
+  "Sensor_Type": "Radiation",
+  "Slave_ID": 4
+ },
+ {
+  "Sensor_Name": "Humidity Sensor",
+  "Sensor_Type": "Humidity",
+  "Slave_ID": 2
+ },
+ {
+  "Sensor_Name": "Flow Sensor",
+  "Sensor_Type": "Flow",
+  "Slave_ID": 3
+ },
+ {
+  "Sensor_Name": "Temperature Sensor",
+  "Sensor_Type": "Temperature",
+  "Slave_ID": 5
+ },
+ {
+  "Sensor_Name": "Pressure Sensor",
+  "Sensor_Type": "Pressure",
+  "Slave_ID": 2
+ },
+ {
+  "Sensor_Name": "Radiation Sensor",
+  "Sensor_Type": "Radiation",
+  "Slave_ID": 2
+ },
+ {
+  "Sensor_Name": "Humidity Sensor",
+  "Sensor_Type": "Humidity",
+  "Slave_ID": 6
+ },
+ {
+  "Sensor_Name": "Flow Sensor",
+  "Sensor_Type": "Flow",
+  "Slave_ID": 3
+ },
+ {
+  "Sensor_Name": "Temperature Sensor",
+  "Sensor_Type": "Temperature",
+  "Slave_ID": 2
+ },
+ {
+  "Sensor_Name": "Pressure Sensor",
+  "Sensor_Type": "Pressure",
+  "Slave_ID": 1
+ },
+ {
+  "Sensor_Name": "Radiation Sensor",
+  "Sensor_Type": "Radiation",
+  "Slave_ID": 2
+ },
+ {
+  "Sensor_Name": "Humidity Sensor",
+  "Sensor_Type": "Humidity",
+  "Slave_ID": 2
+ },
+ {
+  "Sensor_Name": "Flow Sensor",
+  "Sensor_Type": "Flow",
+  "Slave_ID": 3
+ },
+ {
+  "Sensor_Name": "Temperature Sensor",
+  "Sensor_Type": "Temperature",
+  "Slave_ID": 1
+ },
+ {
+  "Sensor_Name": "Pressure Sensor",
+  "Sensor_Type": "Pressure",
+  "Slave_ID": 3
+ },
+ {
+  "Sensor_Name": "Radiation Sensor",
+  "Sensor_Type": "Radiation",
+  "Slave_ID": 5
+ },
+ {
+  "Sensor_Name": "Humidity Sensor",
+  "Sensor_Type": "Humidity",
+  "Slave_ID": 6
+ },
+ {
+  "Sensor_Name": "Flow Sensor",
+  "Sensor_Type": "Flow",
+  "Slave_ID": 4
+ },
+ {
+  "Sensor_Name": "Temperature Sensor",
+  "Sensor_Type": "Temperature",
+  "Slave_ID": 2
+ },
+ {
+  "Sensor_Name": "Pressure Sensor",
+  "Sensor_Type": "Pressure",
+  "Slave_ID": 2
+ },
+ {
+  "Sensor_Name": "Radiation Sensor",
+  "Sensor_Type": "Radiation",
+  "Slave_ID": 6
+ },
+ {
+  "Sensor_Name": "Humidity Sensor",
+  "Sensor_Type": "Humidity",
+  "Slave_ID": 4
+ },
+ {
+  "Sensor_Name": "Flow Sensor",
+  "Sensor_Type": "Flow",
+  "Slave_ID": 2
+ },
+ {
+  "Sensor_Name": "Temperature Sensor",
+  "Sensor_Type": "Temperature",
+  "Slave_ID": 3
+ },
+ {
+  "Sensor_Name": "Pressure Sensor",
+  "Sensor_Type": "Pressure",
+  "Slave_ID": 3
+ },
+ {
+  "Sensor_Name": "Radiation Sensor",
+  "Sensor_Type": "Radiation",
+  "Slave_ID": 1
+ },
+ {
+  "Sensor_Name": "Humidity Sensor",
+  "Sensor_Type": "Humidity",
+  "Slave_ID": 2
+ },
+ {
+  "Sensor_Name": "Flow Sensor",
+  "Sensor_Type": "Flow",
+  "Slave_ID": 6
+ }
+]

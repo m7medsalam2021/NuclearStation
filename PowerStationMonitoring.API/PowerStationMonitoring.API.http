@@ -1,0 +1,6 @@
+@PowerStationMonitoring.API_HostAddress = http://localhost:5095
+
+GET {{PowerStationMonitoring.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,27 @@
+[
+ {
+  "Slave_Name": "Slave_Controller_1",
+  "Master_ID": 4
+ },
+ {
+  "Slave_Name": "Slave_Controller_2",
+  "Master_ID": 3
+ },
+ {
+  "Slave_Name": "Slave_Controller_3",
+  "Master_ID": 3
+ },
+ {
+  "Slave_Name": "Slave_Controller_4",
+  "Master_ID": 3
+ },
+ {
+  
+  "Slave_Name": "Slave_Controller_5",
+  "Master_ID": 3
+ },
+ {
+  "Slave_Name": "Slave_Controller_6",
+  "Master_ID": 4
+ }
+]

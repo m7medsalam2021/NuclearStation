@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "I85V/XA32is3aLrhQ6lDW9KVnt9IqhkxUcy5iJYgVMk=",
+  "Source": "PowerStationMonitoring.API",
+  "BasePath": "_content/PowerStationMonitoring.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "ContainingType": "PowerStationMonitoring.API.Controllers.SensorDataController",
+    "Method": "GetAllSensorData",
+    "RelativePath": "api/SensorData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PowerStationMonitoring.API.Controllers.SensorDataController",
+    "Method": "GetSensorDataById",
+    "RelativePath": "api/SensorData/{sensorId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sensorId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PowerStationMonitoring.API.Controllers.SensorsController",
+    "Method": "GetSensorById",
+    "RelativePath": "api/Sensors/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PowerStationMonitoring.API.Controllers.SensorsController",
+    "Method": "StreamSensorData",
+    "RelativePath": "api/Sensors/stream/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

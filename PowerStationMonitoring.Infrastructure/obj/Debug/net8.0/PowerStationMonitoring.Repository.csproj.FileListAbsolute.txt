@@ -1,0 +1,17 @@
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Infrastructure\bin\Debug\net8.0\PowerStationMonitoring.Repository.deps.json
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Infrastructure\bin\Debug\net8.0\PowerStationMonitoring.Repository.runtimeconfig.json
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Infrastructure\bin\Debug\net8.0\PowerStationMonitoring.Repository.dll
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Infrastructure\bin\Debug\net8.0\PowerStationMonitoring.Repository.pdb
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Infrastructure\bin\Debug\net8.0\PowerStationMonitoring.Core.dll
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Infrastructure\bin\Debug\net8.0\PowerStationMonitoring.Core.pdb
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Infrastructure\obj\Debug\net8.0\PowerStationMonitoring.Repository.csproj.AssemblyReference.cache
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Infrastructure\obj\Debug\net8.0\PowerStationMonitoring.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Infrastructure\obj\Debug\net8.0\PowerStationMonitoring.Repository.AssemblyInfoInputs.cache
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Infrastructure\obj\Debug\net8.0\PowerStationMonitoring.Repository.AssemblyInfo.cs
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Infrastructure\obj\Debug\net8.0\PowerStationMonitoring.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Infrastructure\obj\Debug\net8.0\PowerSta.6DDD8CA1.Up2Date
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Infrastructure\obj\Debug\net8.0\PowerStationMonitoring.Repository.dll
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Infrastructure\obj\Debug\net8.0\refint\PowerStationMonitoring.Repository.dll
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Infrastructure\obj\Debug\net8.0\PowerStationMonitoring.Repository.pdb
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Infrastructure\obj\Debug\net8.0\PowerStationMonitoring.Repository.genruntimeconfig.cache
+C:\Users\Sallam\source\repos\Nuclear Station\PowerStationMonitoring.Infrastructure\obj\Debug\net8.0\ref\PowerStationMonitoring.Repository.dll
